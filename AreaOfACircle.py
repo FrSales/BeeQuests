@@ -1,4 +1,3 @@
-n = 3.14159
-R = float(input())
-A = n * R**2
-print(f"A = {A}")
+A = int(input())
+B = int(input())
+print(f"SOMA = {A+B}")
